@@ -1,0 +1,59 @@
+{
+    "name": "laravel/lumen",
+    "description": "The Laravel Lumen Framework.",
+    "keywords": ["framework", "laravel", "lumen"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/lumen-framework": "5.4.*",
+        "vlucas/phpdotenv": "~2.2",
+        "laravelista/lumen-vendor-publish": "^2.0",
+        "firebase/php-jwt": "^5.0",
+        "barryvdh/laravel-cors": "^0.9.2",
+        "illuminate/mail": "^5.4",
+        "guzzlehttp/guzzle": "^6.3",
+        "doctrine/dbal": "^2.6",
+        "bugsnag/bugsnag-laravel": "^2.0",
+        "funkjedi/composer-include-files": "~1.0",
+        "league/csv": "^8.2",
+        "aws/aws-sdk-php": "^3.32",
+        "ramsey/uuid": "^3.7",
+        "predis/predis": "^1.1",
+        "illuminate/redis": "^5.4",
+        "twilio/sdk": "^5.14",
+        "league/flysystem-aws-s3-v3": "^1.0",
+        "graham-campbell/flysystem": "^4.0",
+        "intervention/image": "^2.4",
+        "pragmarx/google2fa": "^2.0"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "~1.4",
+        "phpunit/phpunit": "~5.0",
+        "mockery/mockery": "~1.0.0-alpha1"
+    },
+    "extra": {
+        "include_files": [
+            "app/helpers.php"
+        ]
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/",
+            "database/"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "post-root-package-install": [
+            "php -r \"copy('.env.example', '.env');\""
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

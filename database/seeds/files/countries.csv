@@ -1,0 +1,267 @@
+country_code;domain;country_name
+AA;.aw;Aruba
+AC;.ag;Antigua and Barbuda
+AE;.ae;United Arab Emirates
+AF;.af;Afghanistan
+AG;.dz;Algeria
+AJ;.az;Azerbaijan
+AL;.al;Albania
+AM;.am;Armenia
+AN;.ad;Andorra
+AO;.ao;Angola
+AQ;.as;American Samoa
+AR;.ar;Argentina
+AS;.au;Australia
+AT;-;Ashmore and Cartier Islands
+AU;.at;Austria
+AV;.ai;Anguilla
+-;.ax;Åland Islands
+AY;.aq;Antarctica
+BA;.bh;Bahrain
+BB;.bb;Barbados
+BC;.bw;Botswana
+BD;.bm;Bermuda
+BE;.be;Belgium
+BF;.bs;Bahamas, The
+BG;.bd;Bangladesh
+BH;.bz;Belize
+BK;.ba;Bosnia and Herzegovina
+BL;.bo;Bolivia
+TB;.bl;Saint Barthelemy
+BM;.mm;Myanmar
+BN;.bj;Benin
+BO;.by;Belarus
+BP;.sb;Solomon Islands
+BQ;-;Navassa Island
+BR;.br;Brazil
+BS;-;Bassas da India
+BT;.bt;Bhutan
+BU;.bg;Bulgaria
+BV;.bv;Bouvet Island
+BX;.bn;Brunei
+BY;.bi;Burundi
+CA;.ca;Canada
+CB;.kh;Cambodia
+CD;.td;Chad
+CE;.lk;Sri Lanka
+CF;.cg;Congo, Republic of the
+CG;.cd;Congo, Democratic Republic of the
+CH;.cn;China
+CI;.cl;Chile
+CJ;.ky;Cayman Islands
+CK;.cc;Cocos (Keeling) Islands
+CM;.cm;Cameroon
+CN;.km;Comoros
+CO;.co;Colombia
+CQ;.mp;Northern Mariana Islands
+CR;-;Coral Sea Islands
+CS;.cr;Costa Rica
+CT;.cf;Central African Republic
+CU;.cu;Cuba
+CV;.cv;Cape Verde
+CW;.ck;Cook Islands
+CY;.cy;Cyprus
+DA;.dk;Denmark
+DJ;.dj;Djibouti
+DO;.dm;Dominica
+DR;.do;Dominican Republic
+DX;-;Dhekelia Sovereign Base Area
+EC;.ec;Ecuador
+EG;.eg;Egypt
+EI;.ie;Ireland
+EK;.gq;Equatorial Guinea
+EN;.ee;Estonia
+ER;.er;Eritrea
+ES;.sv;El Salvador
+ET;.et;Ethiopia
+EU;-;Europa Island
+EZ;.cz;Czech Republic
+FG;.gf;French Guiana
+FI;.fi;Finland
+FJ;.fj;Fiji
+FK;.fk;Falkland Islands (Islas Malvinas)
+FM;.fm;Micronesia, Federated States of
+FO;.fo;Faroe Islands
+FP;.pf;French Polynesia
+FR;.fr;France
+FS;.tf;French Southern and Antarctic Lands
+GA;.gm;Gambia, The
+GB;.ga;Gabon
+GG;.ge;Georgia
+GH;.gh;Ghana
+GI;.gi;Gibraltar
+GJ;.gd;Grenada
+GK;.gg;Guernsey
+GL;.gl;Greenland
+GM;.de;Germany
+GO;-;Glorioso Islands
+GP;.gp;Guadeloupe
+GQ;.gu;Guam
+GR;.gr;Greece
+GT;.gt;Guatemala
+GV;.gn;Guinea
+GY;.gy;Guyana
+GZ;-;Gaza Strip
+HA;.ht;Haiti
+HK;.hk;Hong Kong
+HM;.hm;Heard Island and McDonald Islands
+HO;.hn;Honduras
+HR;.hr;Croatia
+HU;.hu;Hungary
+IC;.is;Iceland
+ID;.id;Indonesia
+IM;.im;Isle of Man
+IN;.in;India
+IO;.io;British Indian Ocean Territory
+IP;-;Clipperton Island
+IR;.ir;Iran
+IS;.il;Israel
+IT;.it;Italy
+IV;.ci;Cote d'Ivoire
+IZ;.iq;Iraq
+JA;.jp;Japan
+JE;.je;Jersey
+JM;.jm;Jamaica
+JN;-;Jan Mayen
+JO;.jo;Jordan
+JU;-;Juan de Nova Island
+KE;.ke;Kenya
+KG;.kg;Kyrgyzstan
+KN;.kp;Korea, North
+KR;.ki;Kiribati
+KS;.kr;Korea, South
+KT;.cx;Christmas Island
+KU;.kw;Kuwait
+KV;-;Kosovo
+KZ;.kz;Kazakhstan
+LA;.la;Laos
+LE;.lb;Lebanon
+LG;.lv;Latvia
+LH;.lt;Lithuania
+LI;.lr;Liberia
+LO;.sk;Slovakia
+-;.us;United States Minor Outlying Islands
+LS;.li;Liechtenstein
+LT;.ls;Lesotho
+LU;.lu;Luxembourg
+LY;.ly;Libyan Arab
+MA;.mg;Madagascar
+MB;.mq;Martinique
+MC;.mo;Macau
+MD;.md;Moldova, Republic of
+MF;.yt;Mayotte
+MG;.mn;Mongolia
+MH;.ms;Montserrat
+MI;.mw;Malawi
+MJ;.me;Montenegro
+MK;.mk;The Former Yugoslav Republic of Macedonia
+ML;.ml;Mali
+MN;.mc;Monaco
+MO;.ma;Morocco
+MP;.mu;Mauritius
+MR;.mr;Mauritania
+MT;.mt;Malta
+MU;.om;Oman
+MV;.mv;Maldives
+MX;.mx;Mexico
+MY;.my;Malaysia
+MZ;.mz;Mozambique
+NC;.nc;New Caledonia
+NE;.nu;Niue
+NF;.nf;Norfolk Island
+NG;.ne;Niger
+NH;.vu;Vanuatu
+NI;.ng;Nigeria
+NL;.nl;Netherlands
+NM;;No Man's Land
+NO;.no;Norway
+NP;.np;Nepal
+NR;.nr;Nauru
+NS;.sr;Suriname
+-;.bq;Bonaire, Sint Eustatius and Saba
+NU;.ni;Nicaragua
+NZ;.nz;New Zealand
+PA;.py;Paraguay
+PC;.pn;Pitcairn Islands
+PE;.pe;Peru
+PF;-;Paracel Islands
+PG;-;Spratly Islands
+PK;.pk;Pakistan
+PL;.pl;Poland
+PM;.pa;Panama
+PO;.pt;Portugal
+PP;.pg;Papua New Guinea
+PS;.pw;Palau
+PU;.gw;Guinea-Bissau
+QA;.qa;Qatar
+RE;.re;Reunion
+RI;.rs;Serbia
+RM;.mh;Marshall Islands
+RN;-;Saint Martin
+RO;.ro;Romania
+RP;.ph;Philippines
+RQ;.pr;Puerto Rico
+RS;.ru;Russia
+RW;.rw;Rwanda
+SA;.sa;Saudi Arabia
+SB;.pm;Saint Pierre and Miquelon
+SC;.kn;Saint Kitts and Nevis
+SE;.sc;Seychelles
+SF;.za;South Africa
+SG;.sn;Senegal
+SH;.sh;Saint Helena
+SI;.si;Slovenia
+SL;.sl;Sierra Leone
+SM;.sm;San Marino
+SN;.sg;Singapore
+SO;.so;Somalia
+SP;.es;Spain
+-;.ss;South Sudan
+ST;.lc;Saint Lucia
+SU;.sd;Sudan
+SV;.sj;Svalbard
+SW;.se;Sweden
+SX;.gs;South Georgia and the Islands
+NN;.sx;Sint Maarten
+SY;.sy;Syrian Arab Republic
+SZ;.ch;Switzerland
+TD;.tt;Trinidad and Tobago
+TE;-;Tromelin Island
+TH;.th;Thailand
+TI;.tj;Tajikistan
+TK;.tc;Turks and Caicos Islands
+TL;.tk;Tokelau
+TN;.to;Tonga
+TO;.tg;Togo
+TP;.st;Sao Tome and Principe
+TS;.tn;Tunisia
+TT;.tl;East Timor
+TU;.tr;Turkey
+TV;.tv;Tuvalu
+TW;.tw;Taiwan
+TX;.tm;Turkmenistan
+TZ;.tz;Tanzania, United Republic of
+UC;.cw;Curacao
+UG;.ug;Uganda
+UK;.uk;United Kingdom
+UP;.ua;Ukraine
+US;.us;United States
+UV;.bf;Burkina Faso
+UY;.uy;Uruguay
+UZ;.uz;Uzbekistan
+VC;.vc;Saint Vincent and the Grenadines
+VE;.ve;Venezuela
+VI;.vg;British Virgin Islands
+VM;.vn;Vietnam
+VQ;.vi;Virgin Islands (US)
+VT;.va;Holy See (Vatican City)
+WA;.na;Namibia
+WE;.ps;State of Palestine
+WF;.wf;Wallis and Futuna
+WI;.eh;Western Sahara
+WS;.ws;Samoa
+WZ;.sz;Swaziland
+YI;.yu;Serbia and Montenegro
+YM;.ye;Yemen
+ZA;.zm;Zambia
+ZI;.zw;Zimbabwe
